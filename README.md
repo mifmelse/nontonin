@@ -1,6 +1,6 @@
 # Nontonin
 
-Platform nonton film domain publik gratis. Streaming langsung dari Internet Archive dengan metadata diperkaya oleh TMDB.
+Platform nonton film domain publik gratis. Streaming langsung dari Internet Archive dengan metadata TMDB.
 
 ## Tech Stack
 
